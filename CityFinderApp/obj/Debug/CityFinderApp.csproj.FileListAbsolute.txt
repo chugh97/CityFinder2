@@ -1,0 +1,13 @@
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderApp.exe.config
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderApp.exe
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderApp.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\obj\Debug\CityFinderApp.csprojResolveAssemblyReference.cache
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\obj\Debug\CityFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\obj\Debug\CityFinderApp.exe
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\obj\Debug\CityFinderApp.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderBusinessLayer.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderInterfaces.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityRepository.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderBusinessLayer.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityFinderInterfaces.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderApp\bin\Debug\CityRepository.pdb

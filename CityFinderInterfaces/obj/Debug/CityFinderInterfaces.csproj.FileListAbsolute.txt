@@ -1,0 +1,5 @@
+C:\Users\shale\Source\Repos\CityFinder\CityFinderInterfaces\bin\Debug\CityFinderInterfaces.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderInterfaces\bin\Debug\CityFinderInterfaces.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderInterfaces\obj\Debug\CityFinderInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\shale\Source\Repos\CityFinder\CityFinderInterfaces\obj\Debug\CityFinderInterfaces.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderInterfaces\obj\Debug\CityFinderInterfaces.pdb

@@ -1,0 +1,10 @@
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityFinderBusinessLayer.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityFinderBusinessLayer.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\obj\Debug\CityFinderBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\obj\Debug\CityFinderBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\obj\Debug\CityFinderBusinessLayer.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\obj\Debug\CityFinderBusinessLayer.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityFinderInterfaces.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityRepository.dll
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityFinderInterfaces.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityFinderBusinessLayer\bin\Debug\CityRepository.pdb

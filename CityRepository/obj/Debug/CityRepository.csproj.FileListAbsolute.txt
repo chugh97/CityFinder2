@@ -1,0 +1,5 @@
+C:\Users\shale\Source\Repos\CityFinder\CityRepository\bin\Debug\CityRepository.dll
+C:\Users\shale\Source\Repos\CityFinder\CityRepository\bin\Debug\CityRepository.pdb
+C:\Users\shale\Source\Repos\CityFinder\CityRepository\obj\Debug\CityRepository.csproj.CoreCompileInputs.cache
+C:\Users\shale\Source\Repos\CityFinder\CityRepository\obj\Debug\CityRepository.dll
+C:\Users\shale\Source\Repos\CityFinder\CityRepository\obj\Debug\CityRepository.pdb
